@@ -4,6 +4,8 @@
 - Introducing some sort of test or quiz on basic concept learning points from the bootcamp to validate that they have taken stuff in, and provide organisation mentors with results to help them focus follow ups
 --->
 
+<img align="right" src="https://app.travis-ci.com/benberryallwood-bjss/apprentice-boot-camp-fundamentals-3.svg?branch=master">
+
 ## Competencies, Behaviours and Knowledge units
 
 These relate to the KSBs defined in the [Level 4 Software Developer standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1).
