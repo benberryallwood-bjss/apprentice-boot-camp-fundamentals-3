@@ -7,6 +7,7 @@ import static tax.FuelType.PETROL;
 import java.time.LocalDate;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class TaxCalculatorPetrolTest {
@@ -16,7 +17,7 @@ public class TaxCalculatorPetrolTest {
 
     @Before
     public void setUp() {
-        taxCalculator = new DummyTaxCalculator();
+        taxCalculator = new DefaultTaxCalculator(2019);
     }
 
     @Test
