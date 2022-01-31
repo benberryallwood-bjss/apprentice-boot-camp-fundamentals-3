@@ -4,7 +4,9 @@
 - Introducing some sort of test or quiz on basic concept learning points from the bootcamp to validate that they have taken stuff in, and provide organisation mentors with results to help them focus follow ups
 --->
 
+<a href="https://app.travis-ci.com/benberryallwood-bjss/apprentice-boot-camp-fundamentals-3" target="_blank">
 <img align="right" src="https://app.travis-ci.com/benberryallwood-bjss/apprentice-boot-camp-fundamentals-3.svg?branch=master">
+</a>
 
 ## Competencies, Behaviours and Knowledge units
 
