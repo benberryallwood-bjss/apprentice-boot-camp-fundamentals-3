@@ -13,5 +13,8 @@ docs/Gemfile.lock
 exercises/java/out
 exercises/java/.gradle
 exercises/java/build/
+exercises/java/.classpath
+exercises/java/.project
+exercises/java/.settings/
 
 *.pyc
